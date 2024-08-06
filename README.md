@@ -45,8 +45,8 @@ python todo_app.py
 
 ## Screenshots 📸
 
-![Light Theme](screenshots/light_theme.png)
-![Dark Theme](screenshots/dark_theme.png)
+![Light Theme](light_theme.png)
+![Dark Theme](dark_theme.png)
 
 ## Contributing 🤝
 
