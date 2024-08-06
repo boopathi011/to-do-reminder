@@ -1,5 +1,3 @@
-Sure! Here is a README file for your To-Do List App with some emojis for better engagement:
-
 ---
 
 # 📝 To-Do List App
