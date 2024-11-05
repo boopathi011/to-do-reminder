@@ -106,10 +106,6 @@ Feel free to customize the application according to your needs. You can modify t
 
 ## 📄 License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute this code as long as you include the original copyright notice.
-
-## 🙏 Acknowledgements
-
 This application was built using the Kivy framework. For more information about Kivy, visit the [official Kivy website](https://kivy.org/).
 
 ---
